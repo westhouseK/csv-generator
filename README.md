@@ -2,9 +2,9 @@
 CSVのテストデータを作成するためのコードです
 
 # 使用技術
-PHP >= 5.3.3
-composer 
-[faker](https://github.com/fzaninotto/Faker)
+PHP >= 5.3.3  
+composer  
+[faker](https://github.com/fzaninotto/Faker)  
 
 # インストール
 ```
@@ -20,6 +20,7 @@ php index.php
 
 # 仕様
 - header付きのCSVファイルが作成される
+- text.csvのファイル名で10レコード出力される
 
 ```
 例)
