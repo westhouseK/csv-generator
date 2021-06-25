@@ -1,4 +1,4 @@
-# csv-generator
+# csv-test-data-creater
 CSVのテストデータを作成するためのコードです
 
 # 使用技術
